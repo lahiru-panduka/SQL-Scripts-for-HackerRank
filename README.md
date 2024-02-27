@@ -16,5 +16,5 @@ If you're impressed by my solutions or have any questions, don't hesitate to con
 Happy coding!
 Lahiru
 
-Contact Me via LinkedIn: https://www.linkedin.com/in/alahakoon-794866165/
-HackerRank: https://www.hackerrank.com/profile/lahirupanduka007
+- Contact Me via LinkedIn: https://www.linkedin.com/in/alahakoon-794866165/
+- HackerRank: https://www.hackerrank.com/profile/lahirupanduka007
